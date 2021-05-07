@@ -1,0 +1,190 @@
+<div class="row service_slider d-none d-lg-block slick-initialized slick-slider slick-dotted"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 15000px; transform: translate3d(-3564px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1"><div><div class="col-lg-12" style="width: 100%; display: inline-block;">
+                    <div class="row slider_width">
+                        <div class="col-lg-7 pl-0">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar">
+                                    <img src="images/service1.jpg" alt="service1">
+                                </div>
+                                <div class="overly">
+                                    <h6>Architecture</h6>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar2">
+                                    <img src="images/service2.jpg" alt="service2">
+                                </div>
+                                <div class="overly overly2">
+                                    <h6>Interior Design</h6>
+                                    <h4>Only room’s inside structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div></div><div class="slick-slide" data-slick-index="0" aria-hidden="true" role="tabpanel" id="slick-slide20" aria-describedby="slick-slide-control20" tabindex="-1"><div><div class="col-lg-12" style="width: 100%; display: inline-block;">
+                    <div class="row slider_width">
+                        <div class="col-lg-7 pl-0">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar">
+                                    <img src="images/service1.jpg" alt="service1">
+                                </div>
+                                <div class="overly">
+                                    <h6>Architecture</h6>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar2">
+                                    <img src="images/service2.jpg" alt="service2">
+                                </div>
+                                <div class="overly overly2">
+                                    <h6>Interior Design</h6>
+                                    <h4>Only room’s inside structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" role="tabpanel" id="slick-slide21" aria-describedby="slick-slide-control21" tabindex="-1"><div><div class="col-lg-12" style="width: 100%; display: inline-block;">
+                    <div class="row slider_width">
+                        <div class="col-lg-7 pl-0">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar">
+                                    <img src="images/service1.jpg" alt="service1">
+                                </div>
+                                <div class="overly">
+                                    <h6>Architecture</h6>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar2">
+                                    <img src="images/service2.jpg" alt="service2">
+                                </div>
+                                <div class="overly overly2">
+                                    <h6>Interior Design</h6>
+                                    <h4>Only room’s inside structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="2" aria-hidden="false" role="tabpanel" id="slick-slide22" aria-describedby="slick-slide-control22"><div><div class="col-lg-12" style="width: 100%; display: inline-block;">
+                    <div class="row slider_width">
+                        <div class="col-lg-7 pl-0">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar">
+                                    <img src="images/service1.jpg" alt="service1">
+                                </div>
+                                <div class="overly">
+                                    <h6>Architecture</h6>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="0">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar2">
+                                    <img src="images/service2.jpg" alt="service2">
+                                </div>
+                                <div class="overly overly2">
+                                    <h6>Interior Design</h6>
+                                    <h4>Only room’s inside structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="0">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div></div><div class="slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" tabindex="-1"><div><div class="col-lg-12" style="width: 100%; display: inline-block;">
+                    <div class="row slider_width">
+                        <div class="col-lg-7 pl-0">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar">
+                                    <img src="images/service1.jpg" alt="service1">
+                                </div>
+                                <div class="overly">
+                                    <h6>Architecture</h6>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar2">
+                                    <img src="images/service2.jpg" alt="service2">
+                                </div>
+                                <div class="overly overly2">
+                                    <h6>Interior Design</h6>
+                                    <h4>Only room’s inside structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div></div><div class="slick-slide slick-cloned" data-slick-index="4" aria-hidden="true" tabindex="-1"><div><div class="col-lg-12" style="width: 100%; display: inline-block;">
+                    <div class="row slider_width">
+                        <div class="col-lg-7 pl-0">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar">
+                                    <img src="images/service1.jpg" alt="service1">
+                                </div>
+                                <div class="overly">
+                                    <h6>Architecture</h6>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar2">
+                                    <img src="images/service2.jpg" alt="service2">
+                                </div>
+                                <div class="overly overly2">
+                                    <h6>Interior Design</h6>
+                                    <h4>Only room’s inside structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div></div><div class="slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" tabindex="-1"><div><div class="col-lg-12" style="width: 100%; display: inline-block;">
+                    <div class="row slider_width">
+                        <div class="col-lg-7 pl-0">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar">
+                                    <img src="images/service1.jpg" alt="service1">
+                                </div>
+                                <div class="overly">
+                                    <h6>Architecture</h6>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="service_inner">
+                                <div class="ser_img ser_img_mar2">
+                                    <img src="images/service2.jpg" alt="service2">
+                                </div>
+                                <div class="overly overly2">
+                                    <h6>Interior Design</h6>
+                                    <h4>Only room’s inside structure we made or shape it as livelihood</h4>
+                                    <a href="service.html" tabindex="-1">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div></div></div></div><ul class="slick-dots" style="display: flex;" role="tablist"><li class="" role="presentation"><button type="button" role="tab" id="slick-slide-control20" aria-controls="slick-slide20" aria-label="1 of 3" tabindex="-1">1</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control21" aria-controls="slick-slide21" aria-label="2 of 3" tabindex="-1">2</button></li><li role="presentation" class="slick-active"><button type="button" role="tab" id="slick-slide-control22" aria-controls="slick-slide22" aria-label="3 of 3" tabindex="0" aria-selected="true">3</button></li></ul></div>
